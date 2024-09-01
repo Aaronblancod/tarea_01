@@ -1,7 +1,7 @@
 # Red de territorios de sacrificio: gestión y problemáticas en torno a los residuos sólidos en Costa Rica, en un contexto de cambio climático.
 
-![Foto1](img/F1.jpg) { width="400" height="300" style="display: block; margin: 0 auto" }
-<p style="text-align: center;">(Fuente de la imagen: <A HREF="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Piles_of_waste_in_Thilafushi%2C_2012_%281%29.jpg/640px-Piles_of_waste_in_Thilafushi%2C_2012_%281%29.jpg">Wikimedia Commons</A>)</p>
+![Foto1](img/F1.jpg)
+<p style="text-align: justify;">(Fuente de la imagen: <A HREF="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Piles_of_waste_in_Thilafushi%2C_2012_%281%29.jpg/640px-Piles_of_waste_in_Thilafushi%2C_2012_%281%29.jpg">Wikimedia Commons</A>)</p>
 
 ## Descripción del proyecto:
 El manejo de los residuos sólidos es uno de los ejes centrales de los Objetivos de Desarrollo Sostenible con los que el país se encuentra comprometido (Secretaría Técnica ODS, 2016). Su tratamiento adecuado es fundamental en un contexto de cambio climático, ya que debido a la quema y al proceso de descomposición, estos residuos generan la emisión de gases de efecto invernadero. De la misma manera, su manejo apropiado permite reducir la producción de *lixiviados*, líquidos que surgen de la descomposición y mezcla de los residuos y que se convierten en foco de contaminación de suelos y fuentes de agua (de Miguel, et al., 2021; Global Alliance for Incinerator Alternatives (GAIA), 2022; International Solid Waste Association, 2009; Rakes et al., 2023; Vicari, 2015).
@@ -16,7 +16,7 @@ Más allá del estudio de casos específicos, este proyecto tiene como objetivo 
 
 ## Descripción de los datos y sus principales variables:
 
-![Foto2](img/F2.jpg) { width="400" height="300" style="display: block; margin: 0 auto" }
+![Foto2](img/F2.jpg)
 <p style="text-align: center;">(Fuente de la imagen: elaboración propia)</p>
 
 1. **Registros administrativos y fuentes secundarias.**
