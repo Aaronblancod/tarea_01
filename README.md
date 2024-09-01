@@ -20,23 +20,23 @@ Más allá del estudio de casos específicos, este proyecto tiene como objetivo 
 <p style="text-align: center;">(Fuente de la imagen: elaboración propia)</p>
 
 1. **Registros administrativos y fuentes secundarias.**
-    -**Descripción:** Datos georreferenciados según las unidades político-administrativas (siempre y cuando las fuentes lo permitan, se utilizará el nivel de desagregación cantonal de los datos).
-    -**Variables:** Id, localización cantonal e información cuantitativa y cualitativa asociada (pendientes de definir).
+    - **Descripción:** Datos georreferenciados según las unidades político-administrativas (siempre y cuando las fuentes lo permitan, se utilizará el nivel de desagregación cantonal de los datos).
+    - **Variables:** Id, localización cantonal e información cuantitativa y cualitativa asociada (pendientes de definir).
 2. **Sitios de disposición de los residuos.**
-    -**Descripción:** Capa de puntos de la localización de los rellenos sanitarios y botaderos.
-    -**Variables:** Id, localización cantonal y provincial, tipo, nombre y coordenadas X y Y.
+    - **Descripción:** Capa de puntos de la localización de los rellenos sanitarios y botaderos.
+    - **Variables:** Id, localización cantonal y provincial, tipo, nombre y coordenadas X y Y.
 3. **División administrativa (distrital, cantonal y provincial)**
-    -**Descripción:** Capa de polígonos de la división político administrativa de Costa Rica.
-    -**Variables:** Código de catálogo y dta, provincia, cantón, distrito, código de cantón, código de provincia, área y región.
+    - **Descripción:** Capa de polígonos de la división político administrativa de Costa Rica.
+    - **Variables:** Código de catálogo y dta, provincia, cantón, distrito, código de cantón, código de provincia, área y región.
 4. **Comunidades cercanas a los territorios de sacrificio.**
-    -**Descripción:** Capa de puntos de las comunidades situadas en zonas de sacrificio.
-    -**Variables:** Id, nombre y localización cantonal y provincial.
+    - **Descripción:** Capa de puntos de las comunidades situadas en zonas de sacrificio.
+    - **Variables:** Id, nombre y localización cantonal y provincial.
 5. **Hidrografía.**
-    -**Descripción:** Capa de líneas de los ríos, quebradas y quebradas intermitentes de Costa Rica.
-    -**Variables:** Tipo, nombre, longitud, código.
+    - **Descripción:** Capa de líneas de los ríos, quebradas y quebradas intermitentes de Costa Rica.
+    - **Variables:** Tipo, nombre, longitud, código.
 6. **Carreteas**
-    -**Descripción:** Capa de líneas de carreteras de Costa Rica.
-    -**Variables:** Código, nombre, jerarquía, longitud y número de ruta.
+    - **Descripción:** Capa de líneas de carreteras de Costa Rica.
+    - **Variables:** Código, nombre, jerarquía, longitud y número de ruta.
 
 ## Problema o pregunta que se espera resolver
 **¿Cómo se ha constituido la red de territorios de sacrificio en Costa Rica?**
