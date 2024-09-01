@@ -1,6 +1,7 @@
 # Red de territorios de sacrificio: gestión y problemáticas en torno a los residuos sólidos en Costa Rica, en un contexto de cambio climático.
 
 ![Foto1](img/F1.jpg)
+
 (Fuente de la imagen: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Piles_of_waste_in_Thilafushi%2C_2012_%281%29.jpg/640px-Piles_of_waste_in_Thilafushi%2C_2012_%281%29.jpg))
 
 ## Descripción del proyecto:
@@ -17,6 +18,7 @@ Más allá del estudio de casos específicos, este proyecto tiene como objetivo 
 ## Descripción de los datos y sus principales variables:
 
 ![Foto2](img/F2.jpg)
+
 (Fuente de la imagen: elaboración propia)
 
 1. **Registros administrativos y fuentes secundarias.**
